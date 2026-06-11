@@ -1,0 +1,7 @@
+1. Load test website đúng cách
+
+Các công cụ phổ biến:
+
+Locust
+k6
+Apache JMeter
