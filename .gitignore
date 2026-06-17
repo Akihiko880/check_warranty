@@ -1,0 +1,16 @@
+.vscode/
+
+data/
+outputs/
+debug_outputs/
+captchas/
+__pycache__/
+screenshots/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+logs
+
+link_web.json
